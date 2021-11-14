@@ -7,6 +7,9 @@ Jurnal Acuan : Medical image retrieval for detecting pneumonia using binary clas
 Dataset : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia <br />
 
 # Task
-OpenCV Basic : Arithmetic,Cropping,Drawing,Flipping,Masking,Pixel,Read_White_image,Resize,Rotate,Split <br />
-Image Processing : Ip_Canny, Ip_adaptive_thresholding, Ip_convolution, Ip_gradien, Ip_morphology, Ip_smooting_bluring, Ip_thresholding <br />
-Image Histogram dan Konvolusi
+OpenCV Basic : <br />
+Arithmetic, Cropping, Drawing, Flipping, Masking, etc <br />
+Image Processing : <br />
+Ip_Canny, Ip_adaptive_thresholding, Ip_convolution, Ip_gradien,etc <br />
+Image Histogram dan Konvolusi : <br />
+
