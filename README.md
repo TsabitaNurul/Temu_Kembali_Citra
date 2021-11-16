@@ -8,8 +8,10 @@ Dataset : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia <br />
 
 # Task
 OpenCV Basic : <br />
-Arithmetic, Cropping, Drawing, Flipping, Masking, etc <br />
+Arithmetic, Cropping, Drawing, Flipping, Masking, etc <br /> <br />
 Image Processing : <br />
-Ip_Canny, Ip_adaptive_thresholding, Ip_convolution, Ip_gradien,etc <br />
+Ip_Canny, Ip_adaptive_thresholding, Ip_convolution, Ip_gradien,etc <br /> <br />
 Image Histogram dan Konvolusi : <br />
+Hi_color_corecction, Hi_detect_low_contrast, Hi_gamma_correction, etc <br />
+
 
